@@ -1,0 +1,48 @@
+{
+  "name": "ytorrent",
+  "version": "0.0.0-alpha",
+  "description": "yet another cli client for torrent writtern in node",
+   "homepage": "http://yashprit.com/",
+    
+    "bugs": {
+      "url": "yashprit/ytorrent/issues"
+  },
+  "author": {  "url": "http://yashprit.com"  ,  "name": "Yashprit Singh"  ,  "email": "yashprit@gmail.com" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "yashprit/ytorrent"
+  },
+  "license": "MIT",
+  "files": [ 
+        "index.js"   ,
+        "cli.js" 
+  ],
+  "keywords": [
+    "ytorrent"  ,
+        "torrent"  ,
+        "cli"  ,
+        "node"  ,
+        "javascript"  ,
+        "download"  ,
+        "manetic-link"  ,
+        "seed"  ,
+        "peer" 
+  ],
+  "dependencies": { 
+        "minimist": "^1.1.1" 
+  },
+  "devDependencies": { 
+        "mocha": "*" 
+       ,
+      "jshint-stylish": "^1.0.0" 
+  },
+  "scripts": { 
+      
+      
+       "test": "mocha" 
+  }  ,
+      "bin": {
+        "ytorrent": "cli.js"
+    } 
+}
