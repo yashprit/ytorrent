@@ -1,4 +1,4 @@
-# ytorrent [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-url]][daviddm-image]
+# ytorrent [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-url]][daviddm-image]
 
 > yet another cli client for torrent writtern in node
 
@@ -31,7 +31,5 @@ MIT © [Yashprit Singh](http://yashprit.com)
 [issue-url]: https://github.com/yashprit/ytorrent/issues
 [npm-url]: https://npmjs.org/package/ytorrent
 [npm-image]: https://badge.fury.io/js/ytorrent.svg
-[travis-url]: https://travis-ci.org/yashprit/ytorrent
-[travis-image]: https://travis-ci.org/yashprit/ytorrent.svg?branch=master
 [daviddm-url]: https://david-dm.org/yashprit/ytorrent.svg?theme=shields.io
 [daviddm-image]: https://david-dm.org/yashprit/ytorrent
